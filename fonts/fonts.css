@@ -1,0 +1,87 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MargemTest-Black";
+  src: url("./MargemTest-Black.eot"); /* IE9 Compat Modes */
+  src: url("./MargemTest-Black.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./MargemTest-Black.otf") format("opentype"), /* Open Type Font */
+    url("./MargemTest-Black.svg") format("svg"), /* Legacy iOS */
+    url("./MargemTest-Black.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./MargemTest-Black.woff") format("woff"), /* Modern Browsers */
+    url("./MargemTest-Black.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: "MargemTest-Bold";
+  src: url("./MargemTest-Bold.eot"); /* IE9 Compat Modes */
+  src: url("./MargemTest-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./MargemTest-Bold.otf") format("opentype"), /* Open Type Font */
+    url("./MargemTest-Bold.svg") format("svg"), /* Legacy iOS */
+    url("./MargemTest-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./MargemTest-Bold.woff") format("woff"), /* Modern Browsers */
+    url("./MargemTest-Bold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: "MargemTest-Light";
+  src: url("./MargemTest-Light.eot"); /* IE9 Compat Modes */
+  src: url("./MargemTest-Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./MargemTest-Light.otf") format("opentype"), /* Open Type Font */
+    url("./MargemTest-Light.svg") format("svg"), /* Legacy iOS */
+    url("./MargemTest-Light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./MargemTest-Light.woff") format("woff"), /* Modern Browsers */
+    url("./MargemTest-Light.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "MargemTest-Medium";
+  src: url("./MargemTest-Medium.eot"); /* IE9 Compat Modes */
+  src: url("./MargemTest-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./MargemTest-Medium.otf") format("opentype"), /* Open Type Font */
+    url("./MargemTest-Medium.svg") format("svg"), /* Legacy iOS */
+    url("./MargemTest-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./MargemTest-Medium.woff") format("woff"), /* Modern Browsers */
+    url("./MargemTest-Medium.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: "MargemTest-Regular";
+  src: url("./MargemTest-Regular.eot"); /* IE9 Compat Modes */
+  src: url("./MargemTest-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./MargemTest-Regular.otf") format("opentype"), /* Open Type Font */
+    url("./MargemTest-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./MargemTest-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./MargemTest-Regular.woff") format("woff"), /* Modern Browsers */
+    url("./MargemTest-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: "MargemTest-XBold";
+  src: url("./MargemTest-XBold.eot"); /* IE9 Compat Modes */
+  src: url("./MargemTest-XBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./MargemTest-XBold.otf") format("opentype"), /* Open Type Font */
+    url("./MargemTest-XBold.svg") format("svg"), /* Legacy iOS */
+    url("./MargemTest-XBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./MargemTest-XBold.woff") format("woff"), /* Modern Browsers */
+    url("./MargemTest-XBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
